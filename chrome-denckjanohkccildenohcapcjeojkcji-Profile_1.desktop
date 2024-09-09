@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Canvas
+Exec=/opt/google/chrome/google-chrome "--profile-directory=Profile 1" --app-id=denckjanohkccildenohcapcjeojkcji
+Icon=chrome-denckjanohkccildenohcapcjeojkcji-Profile_1
+StartupWMClass=crx_denckjanohkccildenohcapcjeojkcji
